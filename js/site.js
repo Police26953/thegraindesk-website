@@ -24,7 +24,7 @@
     buyerIntakeUrl: "https://gentle-integrating-commitment-riverside.trycloudflare.com", // Cloudflare Worker: upsert+tag (set after deploy)
     buyerWebhookUrl: "", // abandoned — GHL stays in test-capture mode
     buyerCheckFormEndpoint: "https://4e07af79.sibforms.com/serve/MUIFAF4JSYeF1sh00OXN8UCwc5-V_9Gl-KVslk6Bmds0o6XTDv8CU5p_zwNTYeUxoSco4CtYM5mCoXR5SSCDCCZ4NGhZpNCQ8ZTjmRTGpT3YMgv94WgN4CDnsUq7dWKkKoHMf0-ShJ6tlaOs9XuyWuG5BRJu4gqSdT_5rFeewo0pLa_CUeOmK2UGS2kSKMB8_HhJyriaWa0Kk_yWnQ==",
-    fallbackEmail: "info@grainbroker.com.au",
+    fallbackEmail: "growers@thegraindesk.com.au",
     phoneDisplay: "0414 503 466"
   };
 
